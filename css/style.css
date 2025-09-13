@@ -1,3 +1,50 @@
+/* Light Theme Overrides */
+.light-theme {
+  background-color: #f8f9fa !important;
+  color: #212529 !important;
+}
+
+.light-theme body,
+.light-theme .navbar,
+.light-theme .ftco-navbar-light {
+  background-color: #f8f9fa !important;
+  color: #212529 !important;
+}
+
+.light-theme .navbar,
+.light-theme .navbar-brand,
+.light-theme .nav-link,
+.light-theme .navbar-toggler {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.light-theme .btn-outline-light {
+  color: #212529 !important;
+  border-color: #212529 !important;
+}
+
+.light-theme .slider-item .overlay,
+.light-theme .overlay {
+  background: rgba(255,255,255,0.7) !important;
+}
+
+.light-theme h1, .light-theme h2, .light-theme h3, .light-theme h4, .light-theme h5, .light-theme h6 {
+  color: #212529 !important;
+}
+
+.light-theme p, .light-theme span, .light-theme li, .light-theme a {
+  color: #212529 !important;
+}
+
+.light-theme .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+  color: #212529 !important;
+}
+
+.light-theme .btn-outline-light:hover {
+  background-color: #212529 !important;
+  color: #fff !important;
+}
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
